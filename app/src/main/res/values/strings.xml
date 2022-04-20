@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Sesión 1: FrameLayout</string>
-    <string name="texto">¡Hola Mundo! Demo FrameLayout</string>
+    <string name="app_name">FrameLayout</string>
+    <string name="texto">Ejemplo básico de framelayout</string>
+    <string name="izq">Izquierda</string>
+    <string name="cen">Centro</string>
+    <string name="der">Derecha</string>
+
 </resources>
