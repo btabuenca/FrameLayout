@@ -52,8 +52,8 @@
             android:textStyle="bold"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:gravity="center"
-            android:layout_gravity="center" />
+            android:gravity="bottom"
+            android:layout_gravity="bottom" />
 
     </FrameLayout>
 
